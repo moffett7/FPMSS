@@ -10,3 +10,8 @@ twbs:bootstrap
 underscore
 coffeescript
 iron:router
+sacha:spin
+accounts-base
+accounts-password
+accounts-ui-unstyled
+orbyt:financejs
